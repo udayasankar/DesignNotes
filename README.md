@@ -42,6 +42,7 @@ Requirements about how often the software fails. The measurement is often expres
  34. Batch vs Stream Processing: https://lnkd.in/ez5v_suJ
 
 
+
 1. Sliding Window Cheatsheet Template - https://lnkd.in/dv2-NP5b
 2. Binary Search Template - https://lnkd.in/deDpHndC
 3. Two-pointers problems - https://lnkd.in/dGRdAMg9
